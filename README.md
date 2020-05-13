@@ -1,1 +1,1 @@
-Por meio de dois vetores, de nomes de salgados e bebidas, foi feita uma análise dos mesmos, utilizando as funções do R, como média, mediana e desvio padrão.
+By means of two vectors, names of savory food and drinks, an analysis was made of the same, using the functions of the R, as mean, median and standard deviation.
