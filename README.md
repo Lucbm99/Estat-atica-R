@@ -10,6 +10,7 @@ Para isso, você irá precisar basicamente ter um editor de código em sua máqu
 Links úteis: 
 
 R: http://leg.ufpr.br/~fernandomayer/aulas/ce083-2016-2/R-instalacao.html
+
 R Studio: https://rstudio.com/products/rstudio/download/
 
 ### 🔧 Como rodar o projeto? 
