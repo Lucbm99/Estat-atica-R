@@ -33,9 +33,5 @@ Consulte o arquivo LICENSE.md, para maiores detalhes.
 Exercício feito por mim - [Lucbm99](https://github.com/Lucbm99)
 
 
-## 🎁 Agradecimentos
-* Exercício feito para estudos, que aprendi muito bem. Obrigado a Deus pela oportunidade!
-
-
 ---
 ⌨️ com ❤️ por [Lucas Baradel](https://github.com/Lucbm99) 😊
